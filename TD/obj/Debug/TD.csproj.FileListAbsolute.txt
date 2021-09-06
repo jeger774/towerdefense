@@ -1,0 +1,11 @@
+C:\Users\Péter\Desktop\OE\towerdefense\TD\obj\Debug\TD.csproj.AssemblyReference.cache
+C:\Users\Péter\Desktop\OE\towerdefense\TD\bin\Debug\TD.exe.config
+C:\Users\Péter\Desktop\OE\towerdefense\TD\bin\Debug\TD.exe.manifest
+C:\Users\Péter\Desktop\OE\towerdefense\TD\bin\Debug\TD.application
+C:\Users\Péter\Desktop\OE\towerdefense\TD\bin\Debug\TD.exe
+C:\Users\Péter\Desktop\OE\towerdefense\TD\bin\Debug\TD.pdb
+C:\Users\Péter\Desktop\OE\towerdefense\TD\obj\Debug\TD.csproj.CoreCompileInputs.cache
+C:\Users\Péter\Desktop\OE\towerdefense\TD\obj\Debug\TD.exe.manifest
+C:\Users\Péter\Desktop\OE\towerdefense\TD\obj\Debug\TD.application
+C:\Users\Péter\Desktop\OE\towerdefense\TD\obj\Debug\TD.exe
+C:\Users\Péter\Desktop\OE\towerdefense\TD\obj\Debug\TD.pdb
